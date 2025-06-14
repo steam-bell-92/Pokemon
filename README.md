@@ -22,4 +22,10 @@ Inter-stat correlations help analyze offensive/defensive tendencies<br>
 <br>
 📂 <b>Dataset Source</b><br>
 You can find the Pokémon dataset at:<br>
-<a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a>
+<a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a><br>
+<br>
+<b>👤 Author</b>
+<br>
+Anuj Kulkarni
+<br>
+Python Learner & Data Visualization Beginner
