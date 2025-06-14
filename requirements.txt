@@ -1,0 +1,25 @@
+# Required Python Libraries
+pandas>=1.0.0
+matplotlib>=3.0.0
+seaborn>=0.10.0
+
+# INSTALLATION OPTIONS:
+
+# OPTION 1: Install using this file
+# ---------------------------------
+# Run in terminal:
+# pip install -r requirements.txt
+
+# OPTION 2: Manually install using Python code
+# --------------------------------------------
+# Paste this in your notebook:
+# import sys, subprocess
+# for lib in ['pandas>=1.0.0', 'matplotlib>=3.0.0', 'seaborn>=0.10.0']:
+#     subprocess.check_call([sys.executable, '-m', 'pip', 'install', lib])
+
+# OPTION 3: Use Anaconda (Recommended for Beginners)
+# --------------------------------------------------
+# If you're using Anaconda, you can install these with:
+# conda install pandas matplotlib seaborn
+#
+# Anaconda includes Jupyter Notebook and many data science packages by default.
