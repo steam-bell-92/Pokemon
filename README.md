@@ -9,10 +9,11 @@ This project performs an exploratory data analysis (EDA) on a Pokémon dataset u
 📌 Type-Based Comparisons: Visual differences in stats across Pokémon types<br>
 📌 Use of Seaborn Themes for better aesthetics<br>
 
-✅ <b>Platforms</b><br>
-<li>Jupyter Notebook</li>
-<li>JupyterLab</li>
-<li>Google Colab (no setup needed — runs in browser)</li>
+
+🧰 <b>Tools / Platforms Required</b><br>
+<li>Python 3.7+</li>
+<li>Jupyter Notebook (or JupyterLab)</li>
+<li>Google Colab (recommended for browser-based usage — no setup required)</li>
 <br>
 🧠 <b>Insights Extracted</b><br>
 Type-based differences in Defense stat<br>
