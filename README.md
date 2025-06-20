@@ -36,6 +36,6 @@ above along with:<br>
   <br><li>Google Colab<a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_cleaned.ipynb'>(Pokemon_cleaned.ipynb)</a></li>
   <li>HTML EDA Report<a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_Report.html'>(Pokemon_Report.html)</a></li>
   <li><a href='https://github.com/steam-bell-92/Pokemon/blob/main/README.md'>README.md</a></li>
-
+<br>
 🎓 <b>Author</b><br>
 Anuj Kulkarni - aka - steam-bell-92
