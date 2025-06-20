@@ -13,12 +13,18 @@ This project performs an exploratory data analysis (EDA) on a Pokémon dataset u
 🧰 <b>Tools / Platforms Required</b><br>
 <li>Python 3.7+</li>
 <li>Jupyter Notebook (or JupyterLab)</li>
-<li>Google Colab (recommended for browser-based usage — no setup required)</li>
+<li>Google Colab (✅recommended for browser-based usage — no setup required)</li>
 <br>
 🧠 <b>Insights Extracted</b><br>
 Type-based differences in Defense stat<br>
 Distribution patterns show stat variability<br>
 Inter-stat correlations help analyze offensive/defensive tendencies<br>
+<br>
+
+📄 Automated EDA Report<br>
+<li>This project also leverages ydata-profiling to generate a comprehensive EDA report.</li>
+<li>A full profiling report of the Pokémon dataset is created using ydata-profiling.</li>
+<li>The report is exported as an .html file, which can be opened locally or uploaded to the web for sharing.</li>
 <br>
 📂 <b>Dataset Source</b><br>
 You can find the Pokémon dataset at:<br>
