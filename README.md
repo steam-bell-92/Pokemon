@@ -31,8 +31,11 @@ Inter-stat correlations help analyze offensive/defensive tendencies<br>
 You can find the Pokémon dataset at:
 <a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a>
 <br><br>
-Also you can find dataset <a href='https://github.com/steam-bell-92/Pokemon/blob/main/W1_Pokemon.csv'>(W1_Pokemon.csv)</a>
+🔎 Also you can find dataset <a href='https://github.com/steam-bell-92/Pokemon/blob/main/W1_Pokemon.csv'>(W1_Pokemon.csv)</a>
 above along with:<br>
   <br><li>Google Colab<a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_cleaned.ipynb'>(Pokemon_cleaned.ipynb)</a></li>
   <li>HTML EDA Report<a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_Report.html'>(Pokemon_Report.html)</a></li>
   <li><a href='https://github.com/steam-bell-92/Pokemon/blob/main/README.md'>README.md</a></li>
+
+🎓 <b>Author</b>
+Anuj Kulkarni - aka - steam-bell-92
