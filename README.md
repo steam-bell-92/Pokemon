@@ -42,3 +42,5 @@ You can find the Pokémon dataset at:
 This repository is for educational use only.
 ## 👤 <b>Author</b>
 Anuj Kulkarni - aka - steam-bell-92
+
+<p>Also this project was part of Summer-of-ML by BSoC</p>
