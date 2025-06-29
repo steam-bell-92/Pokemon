@@ -32,11 +32,16 @@ Inter-stat correlations help analyze offensive/defensive tendencies<br>
 You can find the Pokémon dataset at:
 <a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a>
 
-## 🔎 Also you can find dataset <a href='https://github.com/steam-bell-92/Pokemon/blob/main/W1_Pokemon.csv'>(W1_Pokemon.csv)</a> above along with:
-  - Google Colab: <a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_cleaned.ipynb'>(Pokemon_cleaned.ipynb)</a>
-  - HTML EDA Report (only for raw code, the website is mention above named "EDA Report"): <a href='https://github.com/steam-bell-92/Pokemon/blob/main/Pokemon_Report.html'>(Pokemon_Report.html)</a>
-  - <a href='https://github.com/steam-bell-92/Pokemon/blob/main/README.md'>README.md</a>
-  > If want dataset which consists only original 151 Pokemons: <a href="https://www.kaggle.com/datasets/anujckulkarni/original-151-pokemon">Gen1 Pokemons</a>
+## 📁 Project Structure
+
+```
+Linear_Regression_on_iris_flowers/
+├── Pokemon_cleaned.ipynb                   🔹 EDA + model notebook
+├── Pokemon_Report.html                     🔹 EDA repor
+├── W1_Pokemon.csv                          🔹 Dataset
+└── README.md                               🔹 This file!
+```
+> If want dataset which consists only original 151 Pokemons: <a href="https://www.kaggle.com/datasets/anujckulkarni/original-151-pokemon">Gen1 Pokemons</a>
 
 ## 👤 <b>Author</b>
 Anuj Kulkarni - aka - steam-bell-92
