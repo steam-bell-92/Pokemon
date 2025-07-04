@@ -5,6 +5,21 @@ Also contains a .html file
 
 ---
 
+## 🧠 BSoC Attribution
+
+This project was completed during **Week 3 (June 24–30, 2025)** of the **Summer of Machine Learning (SoML)** track under **Build SoC (BSoC)**.
+
+📅 Program Duration: 7 - 14 June 2025
+
+---
+
+## 🚀 Enhancements
+
+- 📊 Hosted on **GitHub Pages** for interactive visualizations  
+- 📁 Organized code for modular reuse
+
+---
+
 ## 📊 <b>Key Highlights</b>
 📌 Histogram of Defense by Primary Type<br>
 📌 Boxplots for Stat Distribution Across Types<br>
@@ -58,5 +73,3 @@ Linear_Regression_on_iris_flowers/
 
 ## 👤 <b>Author</b>
 Anuj Kulkarni - aka - steam-bell-92
-
-Also this project was part of Summer-of-ML by BSoC
