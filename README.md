@@ -7,9 +7,7 @@ Also contains a .html file
 
 ## 🧠 BSoC Attribution
 
-This project was completed during **Week 3 (June 24–30, 2025)** of the **Summer of Machine Learning (SoML)** track under **Build SoC (BSoC)**.
-
-📅 Program Duration: 7 - 14 June 2025
+This project was completed during **Week 3 (June 9-15, 2025)** of the **Summer of Machine Learning (SoML)** track under **Build SoC (BSoC)**.
 
 ---
 
