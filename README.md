@@ -3,6 +3,8 @@
 This project performs an exploratory data analysis (EDA) on a Pokémon dataset using Seaborn and Matplotlib. It visualizes various aspects of Pokémon attributes such as Type, Attack, Defense, Speed, and more to uncover interesting patterns and relationships.<br>
 Also contains a .html file
 
+If you enjoy this Pokémon EDA, consider leaving a star—maybe even a Starmie! ⭐
+
 ---
 
 ## 🧠 BSoC Attribution
