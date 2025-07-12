@@ -63,7 +63,8 @@ You can find the Pokémon dataset at:
 ```
 Linear_Regression_on_iris_flowers/
 ├── Pokemon_cleaned.ipynb                   🔹 EDA + model notebook
-├── Pokemon_Report.html                     🔹 EDA repor
+├── Pokemon_cleaned.py                      🔹 Python File
+├── Pokemon_Report.html                     🔹 EDA report
 ├── W1_Pokemon.csv                          🔹 Dataset
 └── README.md                               🔹 This file!
 ```
