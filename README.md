@@ -73,3 +73,5 @@ Linear_Regression_on_iris_flowers/
 
 ## 👤 <b>Author</b>
 Anuj Kulkarni - aka - steam-bell-92
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
