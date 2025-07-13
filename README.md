@@ -44,14 +44,6 @@ Inter-stat correlations help analyze offensive/defensive tendencies<br>
 
 ---
 
-## 📄 <b>EDA Report</b>
- - This project also leverages ydata-profiling to generate a comprehensive EDA report.
- - A full profiling report of the Pokémon dataset is created using <b>ydata-profiling</b>.
- - The report is exported as an .html file, which can be opened locally or uploaded to the web for sharing.</li><br>
- > Here's the report: <a href='https://steam-bell-92.github.io/Pokemon/Pokemon_Report.html'>EDA Report</a>
-
----
-
 ## 📂 <b>Dataset Source</b>
 You can find the Pokémon dataset at:
 <a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a>
