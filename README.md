@@ -57,6 +57,7 @@ Linear_Regression_on_iris_flowers/
 ├── Pokemon_cleaned.ipynb                   🔹 EDA + model notebook
 ├── Pokemon_cleaned.py                      🔹 Python File
 ├── W1_Pokemon.csv                          🔹 Dataset
+├── newplot.png                             🔹 Cell '16' output
 └── README.md                               🔹 This file!
 ```
 > If want dataset which consists only original 151 Pokemons: <a href="https://www.kaggle.com/datasets/anujckulkarni/original-151-pokemon">Gen1 Pokemons</a>
