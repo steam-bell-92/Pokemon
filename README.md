@@ -9,7 +9,7 @@ If you enjoy this Pokémon EDA, consider leaving a star—maybe even a Starmie! 
 
 ## 🧠 BSoC Attribution
 
-This project was completed during **Week 3 (June 9-15, 2025)** of the **Summer of Machine Learning (SoML)** track under **Build SoC (BSoC)**.
+This project was completed during **Week 3 (June 9-15, 2025)** of the **Summer of Machine Learning (SoM)** track under **BSoC**.
 
 ---
 
