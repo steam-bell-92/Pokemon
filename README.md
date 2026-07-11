@@ -1,71 +1,50 @@
-# Pokemon
-🧬 <b>Pokémon Stats Analysis with Seaborn</b><br>
-This project performs an exploratory data analysis (EDA) on a Pokémon dataset using Seaborn and Matplotlib. It visualizes various aspects of Pokémon attributes such as Type, Attack, Defense, Speed, and more to uncover interesting patterns and relationships.<br>
-Also contains a .html file
+# Pokemon Stats Analysis
 
-If you enjoy this Pokémon EDA, consider leaving a star—maybe even a Starmie! ⭐
+## Overview
 
----
+This project performs an exploratory data analysis of Pokemon stats using Python data science libraries. The notebook and script inspect type distributions, stat relationships, and several Pokemon-specific questions while preserving the original analysis flow.
 
-## 🧠 BSoC Attribution
+## Problem Statement
 
-This project was completed during **Week 3 (June 9-15, 2025)** of the **Summer of Machine Learning (SoM)** track under **BSoC**.
+The goal is to understand how Pokemon attributes such as HP, Attack, Defense, Speed, and typing vary across the dataset and to identify notable patterns, extremes, and comparisons.
 
----
+## Dataset
 
-## 🚀 Enhancements
+Source: Kaggle Pokemon with stats dataset.
 
-- 📊 Hosted on **GitHub Pages** for interactive visualizations  
-- 📁 Organized code for modular reuse
+Dataset file used in this repository: `data/raw/W1_Pokemon.csv`.
 
----
+## Technologies Used
 
-## 📊 <b>Key Highlights</b>
-📌 Histogram of Defense by Primary Type<br>
-📌 Boxplots for Stat Distribution Across Types<br>
-📌 Scatter Plots exploring stat relationships like Attack vs Defense<br>
-📌 Type-Based Comparisons: Visual differences in stats across Pokémon types<br>
-📌 Use of `Seaborn` Themes for better aesthetics<br>
+- Python
+- pandas
+- matplotlib
+- seaborn
+- plotly
 
----
+## Project Structure
 
-## 🧰 <b>Tools / Platforms Required</b>
-- `Python 3.7+`
-- `Jupyter Notebook` (or `JupyterLab`)
-- `Google Colab` (✅recommended for browser-based usage — no setup required)
+- `data/raw/` stores the source dataset.
+- `notebooks/` contains the cleaned analysis notebook.
+- `src/` contains the Python analysis script.
+- `images/` stores project images and exported visual assets.
+- `README.md` documents the project.
+- `requirements.txt` lists the Python dependencies used by the analysis.
 
----
+## Workflow
 
-## 🧠 <b>Insights Extracted</b>
-Type-based differences in Speed stat<br>
-Distribution patterns show stat variability<br>
-Inter-stat correlations help analyze offensive/defensive tendencies<br>
-<br>
+1. Load the Pokemon dataset from a configurable path.
+2. Inspect the structure and basic statistics of the data.
+3. Clean and transform a small set of fields used in the analysis.
+4. Answer several stat-based questions about Pokemon types and generations.
+5. Visualize relationships across the core Pokemon attributes.
 
----
+## Results
 
-## 📂 <b>Dataset Source</b>
-You can find the Pokémon dataset at:
-<a href='https://www.kaggle.com/datasets/abcsds/pokemon'>Kaggle: Pokémon with stats<a>
+The analysis highlights clear differences in Pokemon stats by type, shows how legendary Pokemon cluster differently from non-legendary ones, and surfaces several maxima and distribution patterns across the dataset.
 
----
+## Future Improvements
 
-## 📁 Project Structure
-
-```
-Linear_Regression_on_iris_flowers/
-├── Pokemon_cleaned.ipynb                   🔹 EDA + model notebook
-├── Pokemon_cleaned.py                      🔹 Python File
-├── W1_Pokemon.csv                          🔹 Dataset
-├── newplot.png                             🔹 Cell '16' output
-├── LICENSE                                 🔹 MIT License
-└── README.md                               🔹 This file!
-```
-> If want dataset which consists only original 151 Pokemons: <a href="https://www.kaggle.com/datasets/anujckulkarni/original-151-pokemon">Gen1 Pokemons</a>
-
----
-
-## 👤 <b>Author</b>
-Anuj Kulkarni - aka - steam-bell-92
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+- Add reusable helper functions for repeated queries.
+- Add automated checks to validate the dataset schema before analysis.
+- Expand the notebook with a separate model-building workflow if prediction becomes part of the project scope.
